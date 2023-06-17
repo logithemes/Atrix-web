@@ -5218,11 +5218,12 @@
 /** process-two **/
 
 .process-two{
-  background: #252628;
+  background: #f1effc;
+  /* background: #ffeee8; */
 }
 
 .process-two .sec-title-six h2{
-  color: #fff;
+  /* color: #fff; */
 }
 
 .processing-block-two .inner-box .icon-box .hov-icon{
@@ -5239,7 +5240,8 @@
 }
 
 .processing-block-two .inner-box .icon-box{
-  background: antiquewhite;
+  background: #fff;
+  border: 1px dashed;
 }
 
 .processing-block-two .inner-box .icon-box:before{
@@ -5263,7 +5265,7 @@
 .processing-block-two .inner-box .icon-box .count-box{
   right: -14px;
   color: #fff;
-  box-shadow: 0px 0px 30px 0px rgba(241, 89, 42, 0.50);
+ 
 }
 
 .processing-block-two .inner-box:hover .icon-box .count-box{
@@ -5280,7 +5282,7 @@
 }
 
 .processing-block-two .inner-box h4{
-  color: #fff;
+  /* color: #fff; */
 }
 
 
@@ -7007,14 +7009,16 @@ div[class^="bubble-"] {
 
 .chooseus-six{
   background: #1c1c1c;
+  border-radius: 0 0 150px 150px;
 }
-
+.chooseus-six::before{position: absolute;content: "";bottom: 0;left: 0;right: 0;width: 100%;height: 20%;background: #f1effc;z-index: -1;}
 .chooseus-six .bg-layer{
   width: 50%;
   height: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  border-radius: 0 0 0 150px;
 }
 
 .chooseus-six .content-inner{
@@ -18330,3 +18334,4 @@ body.out .mouse-pointer {
 .icon img{
     padding: 6px;
 }
+.yoga-img{transform: scale(1.4);}

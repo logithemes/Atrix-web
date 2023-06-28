@@ -1,27 +1,18 @@
 Melmaruvathur landing pages sections
 
-1-Banber (sections ok)
-2-about us (section ok)
-3-about projects included peacock and birds (sections ok)
-4-malai kovail (sections ok)
-5-meditation center (sections ok)
-6-Mud grass chair (**need sections)*****
-5-farmhouse(studio block, 1bhk 2bhk) (**need sections)
+1-Banber 
+2-about us 
+3-about projects included peacock and birds 
+4-malai kovail 
+5-meditation center 
+6-Mud grass chair 
+5-farmhouse(studio block, 1bhk 2bhk)
 6-amenites >>(walking and play area)(tractor ecperience)(160 acres of gated farming communit)(birds view point)(24 x 7 security guard)(10 yeasr fully grown trees)(4 wells)(commen guest house)(2 years maintaince)(proper eletricity connections) (electricity vehicle access on th farm)(cycling experience) (sections ok)
 7-why choose us (construction) (sections ok)
-8-footer (sections ok)
-9-Live chat ***
-10-booking form ****
-12- thank you page ***
+8-footer 
+9-Live chat 
+10-booking form 
+12- thank you page 
 
-Atrix template adding sections
 
-1-(banner-app-landing)
-3-(about us - startup business about us)
-2-(amenites - visa consulting)
-4-(walking path way - top head line center images with border zoho (vijay link landing apges designs))
-5-(meditation center (ideas in screen shot) start up business)
-6-(malai kovail (phycholist tab))
-
-10-Best-Tips-to-Start-Mango-Farming .html
 
